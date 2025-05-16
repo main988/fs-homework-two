@@ -1,4 +1,3 @@
-/* Базові стилі */
 .body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -120,8 +119,22 @@
   background-color: #2e2f42;
 }
 
+.logo {
+  font-family: 'Ralawey', sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #4D5AE5;
+}
+
+.footer-span {
+  color: #F4F4FD;
+}
+
 .footer-text {
   line-height: 1.5;
-  color: var(--light-text-color, #f4f4fd);
+  color: #f4f4fd;
   letter-spacing: 0.02em;
 }
