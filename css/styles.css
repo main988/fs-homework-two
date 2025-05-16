@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+button {
+    cursor: pointer;
+    color: #4D5AE5;
+}
+
+.hero {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.main-nav {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.contacts {
+    font-family: 'Roboto' sans-serif;
+    color: #434455;
+}
